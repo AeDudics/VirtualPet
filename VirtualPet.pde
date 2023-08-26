@@ -37,8 +37,6 @@ void draw(){
   ellipse(590,392,20,20);
   ellipse(420,392,20,20);
   //mane
-  System.out.println(mouseX);
-  System.out.println(mouseY);
   fill(59, 32, 21);
   triangle(426,263,563,260,484,186);
   triangle(563,260,679,325,653,237);
